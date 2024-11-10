@@ -19,7 +19,7 @@
 <a href="https://codepen.io/imrayn06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/imrayn06" height="30" width="40" /></a>
 <a href="https://dev.to/imrayn06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/imrayn06" height="30" width="40" /></a>
 <a href="https://twitter.com/imrayn06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrayn06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imrayn06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrayn06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/im-rayn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im-rayn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
