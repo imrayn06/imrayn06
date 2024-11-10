@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrayn06&label=Profile%20views&color=0e75b6&style=flat" alt="imrayn06" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imrayn06" target="blank"><img src="https://img.shields.io/twitter/follow/imrayn06?logo=twitter&style=for-the-badge" alt="ikbalhssn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imrayn06" target="blank"><img src="https://img.shields.io/twitter/follow/imrayn06?logo=twitter&style=for-the-badge" alt="im-rayn" /></a> </p>
 
 - 💬 Ask me about **javascript, react, node.js**
 
