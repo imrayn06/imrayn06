@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayan Shenehashis Dutta</h1>
-<h3 align="center">An aspiring Full Stack Developer from Kolkata, India</h3>
+<h3 align="center">An aspiring Full Stack Developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrayn06&label=Profile%20views&color=0e75b6&style=flat" alt="imrayn06" /> </p>
