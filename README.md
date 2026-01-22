@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narayan Shenehashis Dutta</h1>
 <h1 align='center'><a href='https://narayan-portfolio-three.vercel.app/'> [PORTFOLIO] </a></h1>
-<h3 align="center">An aspiring Full Stack Developer from India</h3>
+<h3 align="center">A Digital Marketier from India</h3>
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
 </p>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/imrayn06" target="blank"><img src="https://img.shields.io/twitter/follow/imrayn06?logo=twitter&style=for-the-badge" alt="im-rayn" /></a> </p>
 
-- 💬 Ask me about **javascript, react, node.js**
+- 💬 Ask me about **Digital Marketing, Social Media Management and Optimization, SEO, Web Development, Campaigns, Google Business**
 
 - 📫 How to reach me **duttarayan3@gmail.com**
 
